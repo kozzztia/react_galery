@@ -1,0 +1,11 @@
+.btn{
+    margin: 10px;
+    border: none;
+    background: inherit;
+    color: #fff;
+    font-size: 25px;
+    transition: .2s;
+}
+.btn:hover{
+    transform: scale(1.2);
+}

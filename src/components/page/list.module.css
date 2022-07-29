@@ -1,0 +1,48 @@
+.list{
+    list-style-type: none;
+    padding:5px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+.item{
+    color: #fff;
+    background: #466e4d;
+    padding: 5px;
+    width: 400px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    border:1px solid #eee;
+    border-radius: 10px;
+    margin:10px 5px;
+    transition: .1s;
+}
+.item:hover{
+  transform: scale(1.1);
+    box-shadow: 1px 5px 5px  black;
+}
+.about{
+    display: flex;
+    flex-direction: column;
+}
+.image {
+    overflow: hidden;
+    width: 150px;
+    height: 150px;
+    position: relative;
+}
+.image>img{
+    position: absolute;
+    top:0;
+    left:0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center center;
+}
