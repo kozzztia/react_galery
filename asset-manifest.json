@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kozzztia/react_galery/static/css/main.fc427162.css",
+    "main.js": "/kozzztia/react_galery/static/js/main.8e199969.js",
+    "index.html": "/kozzztia/react_galery/index.html",
+    "main.fc427162.css.map": "/kozzztia/react_galery/static/css/main.fc427162.css.map",
+    "main.8e199969.js.map": "/kozzztia/react_galery/static/js/main.8e199969.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc427162.css",
+    "static/js/main.8e199969.js"
+  ]
+}
